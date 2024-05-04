@@ -1,6 +1,6 @@
 # The-IceCream-Factory
 ## Welcome to the Ice Cream Factory Website Project! 
- We are delighted to present a secure HTTPS website for an enchanting ice cream shop named The Ice Cream Factory. This website serves as a one-stop destination for customers to explore the shop's enticing menu, find contact information, and discover the various services available at their store.
+ We are delighted to present a secure HTTPS website for an enchanting ice cream shop named The Ice Cream Factory. This website serves as a one-stop destination for customers to explore the shop's enticing menu, find contact information, and discover the various services available at their store...
 
 ### Key Features:
 
